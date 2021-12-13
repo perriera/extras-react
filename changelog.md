@@ -5,8 +5,8 @@
 > and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).</br>
 > To add a tag to the git repository do:
 >
-> > git tag -a v0.5.1 -m "Added link"</br>
-> > git push origin v0.5.1
+> > git tag -a v0.5.2 -m "Added WinTile link"</br>
+> > git push origin v0.5.2
 
 IMPORTANT:
 
@@ -23,6 +23,12 @@ Correct URL for github, (for source compare)</br>
 Adding mock test cases </br>
 Adding unit test cases </br>
 Updated README.md accordinging</br>
+
+#### 0.5.2 (2021-12-13)
+
+### Added
+
+- [How to Snap Windows to Corners in Ubuntu](https://www.omgubuntu.co.uk/2021/07/gnome-shell-quarter-tiling-extension-wintile)
 
 #### 0.5.1 (2021-12-13)
 
@@ -66,7 +72,8 @@ Updated README.md accordinging</br>
 
 - Initial content
 
-[unreleased]: https://github.com/perriera/react-starting-setup/compare/v0.5.1...HEAD
+[unreleased]: https://github.com/perriera/react-starting-setup/compare/v0.5.2...HEAD
+[0.5.2]: https://github.com/perriera/react-starting-setup/compare/v0.5.1...v0.5.2
 [0.5.1]: https://github.com/perriera/react-starting-setup/compare/v0.5.0...v0.5.1
 [0.5.0]: https://github.com/perriera/react-starting-setup/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/perriera/react-starting-setup/compare/v0.3.1...v0.4.0

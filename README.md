@@ -36,3 +36,4 @@ English
 [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code/tree/03-react-basics-working-with-components/code)</br>
 [Gnome Extensions](https://linuxhint.com/installing_gnome_extensions_ubuntu/)
 [How to Snap Windows to Corners in Ubuntu](https://www.omgubuntu.co.uk/2021/07/gnome-shell-quarter-tiling-extension-wintile)
+[WinTile: Windows 10 window tiling for GNOME](https://extensions.gnome.org/extension/1723/wintile-windows-10-window-tiling-for-gnome/)
