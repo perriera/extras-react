@@ -5,8 +5,8 @@
 > and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).</br>
 > To add a tag to the git repository do:
 >
-> > git tag -a v0.3.0 -m "Added dev branch"</br>
-> > git push origin v0.3.0
+> > git tag -a v0.3.1 -m "fixed README.md"</br>
+> > git push origin v0.3.1
 
 IMPORTANT:
 
@@ -23,6 +23,12 @@ Correct URL for github, (for source compare)</br>
 Adding mock test cases </br>
 Adding unit test cases </br>
 Updated README.md accordinging</br>
+
+#### 0.4.0 (2021-12-13)
+
+### Added
+
+- fixed README.md
 
 #### 0.3.0 (2021-12-13)
 
@@ -42,7 +48,8 @@ Updated README.md accordinging</br>
 
 - Initial content
 
-[unreleased]: https://github.com/perriera/react-starting-setup/compare/v0.3.0...HEAD
+[unreleased]: https://github.com/perriera/react-starting-setup/compare/v0.3.1...HEAD
+[0.3.1]: https://github.com/perriera/react-starting-setup/compare/v0.3.0...v0.3.1
 [0.3.0]: https://github.com/perriera/react-starting-setup/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/perriera/react-starting-setup/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/perriera/react-starting-setup/releases/tag/v0.1.0
